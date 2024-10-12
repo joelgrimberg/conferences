@@ -16,6 +16,11 @@ A list of Epic Conferences 🚀
 
 ## Conferences
 
+### Devopsdays
+-  **Website**: [Devopsdays](https://www.devopsdays.org/)
+-  **Location**: Amsterdam
+-  **Date**: 18-20 June 2025
+
 ### Hustef
 
 -   **Website**: [Hustef](https://www.hustef.hu/)
