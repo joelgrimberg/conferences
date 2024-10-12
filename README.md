@@ -16,6 +16,12 @@ A list of Epic Conferences 🚀
 
 ## Conferences
 
+### Github Universe
+
+-   **Website**: [Github Universe](https://githubuniverse.com/)
+-   **Location**: San Francisco, USA
+-   **Date**: ~ 29-30 October 2025
+
 ### We are Developers
 
 -   **Website**: [We are Developers](https://www.wearedevelopers.com/)
