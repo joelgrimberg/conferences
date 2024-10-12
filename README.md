@@ -16,10 +16,17 @@ A list of Epic Conferences 🚀
 
 ## Conferences
 
+### We are Developers
+
+-   **Website**: [We are Developers](https://www.wearedevelopers.com/)
+-   **Location**: Berlin
+-   **Date**: 9-11 July 2025
+
 ### Devopsdays
--  **Website**: [Devopsdays](https://www.devopsdays.org/)
--  **Location**: Amsterdam
--  **Date**: 18-20 June 2025
+
+-   **Website**: [Devopsdays](https://www.devopsdays.org/)
+-   **Location**: Amsterdam
+-   **Date**: 18-20 June 2025
 
 ### Hustef
 
