@@ -4,8 +4,10 @@
 
 - [Epic conferences](#epic-conferences)
   - [TL;DR](#tldr)
-  - [Conferences](#conferences) - [Hustef](#hustef) -
-  [Agile Testing Days](#agile-testing-days) -
+  - [Conferences](#conferences) - [Blipz on the radar](#blipz-on-the-radar) -
+  [Github Universe](#github-universe) -
+  [We are Developers](#we-are-developers) - [Devopsdays](#devopsdays) -
+  [Hustef](#hustef) - [Agile Testing Days](#agile-testing-days) -
   [TestCon Europe](#testcon-europe) - [Defcon](#defcon) -
   [AWS Summit](#aws-summit)
   <!--toc:end-->
